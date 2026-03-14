@@ -232,7 +232,7 @@ teams, Akatsuki, and Kara.
 <a name="postman-collection"></a>
 <h2>Postman Collection</h2>
 <p>
-Download the <a href="https://github.com/abosamra001/dattebayo-api-fork/blob/main/README.md" target="_blank">POSTMAN COLLECTION</a> JSON file and import it into the Postman app to enjoy testing it! 😉
+Download the <a href="https://github.com/abosamra001/dattebayo-api-fork/blob/main/dattebayo-api.json" target="_blank">POSTMAN COLLECTION</a> JSON file and import it into the Postman app to enjoy testing it! 😉
 </p>
 
 <hr />
